@@ -26,6 +26,7 @@ Porcelain Gaiwan
 
 weight : 5g
 water content : 120ml
+water temp: 90°C
 Time : 30s., 45s., 1min, ...
 
 #### Brewing style
@@ -47,6 +48,7 @@ Porcelain Gaiwan
 
 weight : 9g
 Time : 45s., 1mins, ...
+water temp: 90°C
 
 #### Brewing style
 
