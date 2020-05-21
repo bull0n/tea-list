@@ -45,3 +45,5 @@ Approaching the end of the package, very clean taste and fresh, smell of the lea
 Also tried lower temperature with longer time. It works well but the taste is slightly different, neither worse or better.
 
 When overbrewed the tea liquor get much less translucide.
+
+Tea leafs are pretty broken up, probably due to the steaming of some leafs.
