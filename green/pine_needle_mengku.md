@@ -39,7 +39,7 @@ Time : 40s., ~1min, ~1min, ~1mins...
 #### Brewing style
 
 Gongfu
-number of infusions: > 3
+number of infusions: > 6
 
 #### Description / comment
 
