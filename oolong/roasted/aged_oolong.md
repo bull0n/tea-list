@@ -43,3 +43,24 @@ number of infusions: > 5
 
 Smells smoky, wasn't brew hard enoug, need boiling
 
+### Session 2
+
+#### device 
+
+Porcelain Gaiwan
+
+#### Parameters
+
+weight : 6g
+water content : 120ml
+water temp: 90°C
+Time : 1mins
+
+#### Brewing style
+
+Gongfu
+number of infusions: > 5
+
+#### Description / comment
+
+Smells smoky, wasn't brew hard enoug, need boiling

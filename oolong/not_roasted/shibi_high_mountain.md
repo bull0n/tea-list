@@ -31,14 +31,14 @@ Porcelain Gaiwan
 
 weight : 7g
 water content : 120ml
-water temp: ^90°C
-Time : 1min, 
+water temp: 90°C
+Time : 1min, 1min 
 
 #### Brewing style
 
 Gongfu
-number of infusions: > 
+number of infusions: > 6
 
 #### Description / comment
 
-Good paramter, fresh and fragrant but not too much
+Good paramter, fresh and fragrant but not too much, second infusion was a bit astringent, need a shorter one
