@@ -1,13 +1,13 @@
-# Baguashan Spring Bao Zhong Tea, Lot 925
+# High Mountain Heritage Dong Ding Oolong Tea, Lot 834
 
-Vendor: High Mountain Heritage Dong Ding Oolong Tea, Lot 834
+Vendor: Taiwan tea craft
 Link: https://www.taiwanteacrafts.com/product/dong-ding-high-mountain-heritage-oolong-tea/?attribute_pa_weight=25-g-0-88-oz&v=1ee0bf89c5d1
 Year: April 2019
 Origin: Chiayi County, Taiwan
 Price : 0.12$/g
 Form: Ball rolled
 Baking: Medium low
-would buy again : n (baguashan for season much better)
+would buy again : y
 
 ## Vendor description 
 
