@@ -31,7 +31,7 @@ weight : 5g
 water content : 170ml
 water temp: 70°C
 Time : 1mins, 30s, 1min...
-number of infusions: 5
+number of infusions: 4
 
 #### Description / comment
 
@@ -49,8 +49,8 @@ weight : 6g
 water content : 140ml
 water temp: 80°C
 Time : 1mins, 30s, 1min...
-number of infusions: 5
+number of infusions: 4
 
 #### Description / comment
 
-Seaweedsoup
+Seaweed soup
