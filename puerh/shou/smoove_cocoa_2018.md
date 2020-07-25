@@ -6,7 +6,7 @@ Year: 2019
 Origin: ?
 Price : 1$/g
 Form: Tea coin
-would buy again : yes
+would buy again : y
 
 ## Vendor description 
 
